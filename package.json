@@ -1,0 +1,12 @@
+{
+  "name": "enzyme-redux-helpers",
+  "version": "0.0.1",
+  "description": "Enzyme helpers for testing Redux connected components",
+  "main": "index.js",
+  "repository": "git@github.com:Lapixx/enzyme-redux-helpers.git",
+  "author": "Tijn Kersjes <tijn@divbyzero.nl>",
+  "license": "MIT",
+  "peerDependencies": {
+    "enzyme": "^3.0.0"
+  }
+}
